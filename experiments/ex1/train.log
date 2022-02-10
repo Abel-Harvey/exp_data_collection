@@ -1,0 +1,57 @@
+2022-02-10 17:00:27,089:INFO: Model type:
+2022-02-10 17:00:27,089:INFO: device: cuda
+2022-02-10 17:00:27,089:INFO: Load pre-train model weights...
+2022-02-10 17:01:03,489:INFO: Model type:
+2022-02-10 17:01:03,489:INFO: device: cuda
+2022-02-10 17:01:03,490:INFO: Load pre-train model weights...
+2022-02-10 17:01:07,276:INFO: -done
+2022-02-10 17:01:07,276:INFO: Starting training for 1 epoch(s)
+2022-02-10 17:01:30,309:INFO: Epoch 1/1
+2022-02-10 17:21:05,836:INFO: - Val metrics:
+correct_num: 0.000; predict_num: 0.000; gold_num: 7928.000; precision: 0.000; recall: 0.000; f1: 0.000
+2022-02-10 17:21:07,911:INFO: Best val f1: 00.00
+2022-02-10 17:47:25,759:INFO: Model type:
+2022-02-10 17:47:25,759:INFO: device: cuda
+2022-02-10 17:47:25,759:INFO: Load pre-train model weights...
+2022-02-10 17:47:29,476:INFO: -done
+2022-02-10 17:47:29,476:INFO: Starting training for 10 epoch(s)
+2022-02-10 17:47:52,784:INFO: Epoch 1/10
+2022-02-10 18:07:35,107:INFO: - Val metrics:
+correct_num: 6647.000; predict_num: 8949.000; gold_num: 7928.000; precision: 0.743; recall: 0.838; f1: 0.788
+2022-02-10 18:07:43,636:INFO: - Found new best F1
+2022-02-10 18:07:43,636:INFO: Epoch 2/10
+2022-02-10 18:27:34,406:INFO: - Val metrics:
+correct_num: 7036.000; predict_num: 8932.000; gold_num: 7928.000; precision: 0.788; recall: 0.887; f1: 0.835
+2022-02-10 18:27:48,040:INFO: - Found new best F1
+2022-02-10 18:27:48,041:INFO: Epoch 3/10
+2022-02-10 18:47:39,273:INFO: - Val metrics:
+correct_num: 7087.000; predict_num: 8381.000; gold_num: 7928.000; precision: 0.846; recall: 0.894; f1: 0.869
+2022-02-10 18:47:52,949:INFO: - Found new best F1
+2022-02-10 18:47:52,949:INFO: Epoch 4/10
+2022-02-10 19:07:43,700:INFO: - Val metrics:
+correct_num: 7105.000; predict_num: 8219.000; gold_num: 7928.000; precision: 0.864; recall: 0.896; f1: 0.880
+2022-02-10 19:07:57,285:INFO: - Found new best F1
+2022-02-10 19:07:57,286:INFO: Epoch 5/10
+2022-02-10 19:27:48,039:INFO: - Val metrics:
+correct_num: 7190.000; predict_num: 8214.000; gold_num: 7928.000; precision: 0.875; recall: 0.907; f1: 0.891
+2022-02-10 19:28:01,903:INFO: - Found new best F1
+2022-02-10 19:28:01,903:INFO: Epoch 6/10
+2022-02-10 19:47:52,309:INFO: - Val metrics:
+correct_num: 7127.000; predict_num: 7882.000; gold_num: 7928.000; precision: 0.904; recall: 0.899; f1: 0.902
+2022-02-10 19:48:06,876:INFO: - Found new best F1
+2022-02-10 19:48:06,877:INFO: Epoch 7/10
+2022-02-10 20:07:58,724:INFO: - Val metrics:
+correct_num: 7202.000; predict_num: 8029.000; gold_num: 7928.000; precision: 0.897; recall: 0.908; f1: 0.903
+2022-02-10 20:08:12,280:INFO: - Found new best F1
+2022-02-10 20:08:12,280:INFO: Epoch 8/10
+2022-02-10 20:28:05,596:INFO: - Val metrics:
+correct_num: 7239.000; predict_num: 8048.000; gold_num: 7928.000; precision: 0.899; recall: 0.913; f1: 0.906
+2022-02-10 20:28:18,832:INFO: - Found new best F1
+2022-02-10 20:28:18,833:INFO: Epoch 9/10
+2022-02-10 20:48:12,440:INFO: - Val metrics:
+correct_num: 7220.000; predict_num: 8006.000; gold_num: 7928.000; precision: 0.902; recall: 0.911; f1: 0.906
+2022-02-10 20:48:26,032:INFO: - Found new best F1
+2022-02-10 20:48:26,032:INFO: Epoch 10/10
+2022-02-10 21:08:18,673:INFO: - Val metrics:
+correct_num: 7219.000; predict_num: 8006.000; gold_num: 7928.000; precision: 0.902; recall: 0.911; f1: 0.906
+2022-02-10 21:08:25,939:INFO: Best val f1: 00.91
